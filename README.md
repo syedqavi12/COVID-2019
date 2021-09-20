@@ -6,11 +6,11 @@ Group Project for Data Visualization Class
 
 covid_19_data: Main dataset from Kaggle used for Data Visualization
 
-main3: Subset of the covid_19_data dataset used to create Area Chart Visualization
+main3: Subset of the covid_19_data, Pandemic (H1N1) 2009, sars_2003_complete_dataset_clean dataset used to create Area Chart Visualization
 
 Area Chart: R code for the small multiples area chart comparing covid 2019, H1N1, SARS Visualization
 
-DSC465-FinalReport_The SICK: Overall Summary of the group visualization 
+DSC465-FinalReport_The SICK: Overall Summary of the group visualizatio, Visualization #5 pg.13 is the Area Chart 
 
 ### Overview
 
