@@ -5,6 +5,8 @@ Group Project for Data Visualization Class
 ### Description
 
 covid_19_data: Main dataset from Kaggle used for Data Visualization
+Pandemic (H1N1) 2009:  Main dataset from Kaggle used for Data Visualization
+sars_2003_complete_dataset_clean:  Main dataset from Kaggle after cleaned used for Data Visualization
 
 main3: Subset of the covid_19_data, Pandemic (H1N1) 2009, sars_2003_complete_dataset_clean dataset used to create Area Chart Visualization
 
